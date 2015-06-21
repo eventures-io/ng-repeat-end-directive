@@ -1,6 +1,6 @@
 {
   "author": "Peter Symoens",
-  "name": "repeat-end directive",
+  "name": "repeat-end-directive",
   "version": "0.0.1",
   "description": "The repeat-end directive fires an event at the last of an ng-repeat iteration",
   "devDependencies": {
