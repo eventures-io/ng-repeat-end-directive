@@ -1,0 +1,22 @@
+{
+  "name": "angular-repeat-end",
+  "version": "0.0.1",
+  "main": [
+    "dist/repeat-end-directive.js"
+  ],
+  "description": "The repeat-end directive fires an event at the last of an ng-repeat iteration",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">1.2.0"
+  },
+  "devDependencies": {
+    "angular-mocks": ">1.2.0"
+  }
+}
